@@ -1,0 +1,49 @@
+#logo{
+	margin-left: 405px;
+    top:45px;
+	
+}
+
+#login{
+	height: 30px;
+	position: absolute;
+	top: 45px;
+	right:55px;
+	font-family: verdana,helvetica,arial,sans-serif;
+	font-weight: bold;
+}
+
+#menu{
+    
+	margin-top: 105px;
+	padding-left: 270px;
+} 
+
+li{
+    
+	padding:45px;
+    list-style-type: none;
+    display:inline;
+    font-size: 13px;
+    font-family: "Lucida Console";
+   }
+
+#form{
+  padding:24px;
+  margin-left: 446px;
+
+}
+
+
+
+#pagecontent{
+	position: relative;
+	left:390px;
+	width:450px;
+	padding:15px;
+	font-size: 0.80em;
+       font-weight: normal;
+       font-family: Segoe UI,sans-serif;
+       line-height: 1.5em;
+       color: #524D52;
+}

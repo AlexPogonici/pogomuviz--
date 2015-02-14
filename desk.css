@@ -1,0 +1,41 @@
+#login{
+    height: 30px;
+    position: absolute;
+    top: 45px;
+    right:55px;
+    font-family: verdana,helvetica,arial,sans-serif;
+    font-weight: bold;
+}
+
+
+#desk2{
+	margin-top: 15px;
+	position: relative;
+	margin-left: 400px;
+	width:400px;
+	font-size: 0.80em;
+       font-weight: normal;
+       font-family: Segoe UI,sans-serif;
+       line-height: 1.5em;
+       color: #524D52;
+}
+
+
+#shopping-cart-actions{
+    
+    margin-right: 20px;
+    padding:35px;
+    list-style-type: none;
+    display:inline;
+    font-size: 12px;
+    font-family: "Lucida Console";
+    font-weight: bolder;
+    text-decoration: none;
+
+}
+
+#shopping-cart-actions li{
+  display:inline;
+  padding-bottom: 5px;
+  padding-left: 270px;   
+}
